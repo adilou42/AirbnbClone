@@ -1,0 +1,22 @@
+.header-logo {
+    width: 180px;
+    height: 130px;
+}
+
+.header-div {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    height: 180px;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://files.sbcdnsb.com/images/UOaWuEWwyE0nSZewb5dWNg/content/1703094716/3363180/2000/vecteezy_sand-and-beach-for-texture-and-background_1917552-min.jpeg");
+    background-color: #FFFFFF;
+}
+
+.header-icon {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-right: -100px;
+}
